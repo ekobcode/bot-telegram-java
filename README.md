@@ -1,3 +1,4 @@
-# bot-telegram-java
+# CARA INSTAL 
+- Buka menggunakan Intellij IDEA
 
 
